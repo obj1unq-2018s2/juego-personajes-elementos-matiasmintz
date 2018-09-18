@@ -8,7 +8,9 @@ Como recién estamos empezando a aprender programación con objetos, vamos a mod
 - **luisa**, una _jugadora_,
 - **floki**, un _personaje_ guerrero,
 - **mario**, un _personaje_ trabajador,
+
 - **ballesta** y **jabalina**, dos _armas_. `floki` tiene una de estas armas.
+
 - **castillo**, **aurora** (que es una vaca) y **tipa** (que es un árbol), tres _elementos_. 
 
 De cada elemento nos va a interesar el alto. El `castillo` mide 20 metros, `aurora` mide 1 metro, la `tipa` arranca en 8 metros pero puede crecer (ya veremos cómo).
